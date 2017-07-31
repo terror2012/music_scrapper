@@ -1,0 +1,6 @@
+USERNAME = 'megaimpact2012@yahoo.com'
+PASSWORD = 'Necroman2012'
+host = 'localhost'
+db_user = 'root'
+db_password = 'terror2012'
+db_name = 'music'
